@@ -1,0 +1,12 @@
+Sean Lightfoot
+Section 1
+Assignment: Aquarium
+
+Description: Program simulates a aquarium of random fish types and shows their info and total cost for everything.
+
+User Responsibilities: User has no responsibilities but to run the program.
+
+Caveats: Not sure if wanting consolecolor black for the "water" was a typo or not but mine is white so easy to see.
+Sometimes the fish shapes are black due to colors being random and you can't see the fish.
+
+Notes: N/A
