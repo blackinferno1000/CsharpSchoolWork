@@ -1,0 +1,7 @@
+F:\Sophomore semester1\NMDAPS2\PE8\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Sophomore semester1\NMDAPS2\PE8\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Sophomore semester1\NMDAPS2\PE8\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Sophomore semester1\NMDAPS2\PE8\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+F:\Sophomore semester1\NMDAPS2\PE8\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Sophomore semester1\NMDAPS2\PE8\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Sophomore semester1\NMDAPS2\PE8\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

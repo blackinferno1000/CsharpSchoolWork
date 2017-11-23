@@ -1,0 +1,16 @@
+Sean Lightfoot
+Section 1
+Assignment: ASCII Replacer
+
+Description: Program gives user control to change a char in a chosen 
+ASCII available to another char. The char being replaced will be
+replaced at all instances of the char.
+
+User Responsibilities: User is responsible for input associated 
+with changing the chosen ASCII's char with another char.
+
+Caveats: GetUserChar method doesn't validate check more than once.
+for some reason the loop literally just isn't looping though the
+conditions are right.
+
+Notes: N/A

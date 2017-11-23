@@ -1,0 +1,7 @@
+F:\Sophomore semester1\NMDAPS2\project1\project1\obj\Debug\project1.csprojResolveAssemblyReference.cache
+F:\Sophomore semester1\NMDAPS2\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+F:\Sophomore semester1\NMDAPS2\project1\project1\bin\Debug\project1.exe.config
+F:\Sophomore semester1\NMDAPS2\project1\project1\bin\Debug\project1.exe
+F:\Sophomore semester1\NMDAPS2\project1\project1\bin\Debug\project1.pdb
+F:\Sophomore semester1\NMDAPS2\project1\project1\obj\Debug\project1.exe
+F:\Sophomore semester1\NMDAPS2\project1\project1\obj\Debug\project1.pdb

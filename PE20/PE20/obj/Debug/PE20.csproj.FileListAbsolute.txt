@@ -1,0 +1,7 @@
+E:\Sophomore semester1\NMDAPS2\PE20\PE20\bin\Debug\PE20.exe.config
+E:\Sophomore semester1\NMDAPS2\PE20\PE20\bin\Debug\PE20.exe
+E:\Sophomore semester1\NMDAPS2\PE20\PE20\bin\Debug\PE20.pdb
+E:\Sophomore semester1\NMDAPS2\PE20\PE20\obj\Debug\PE20.csprojResolveAssemblyReference.cache
+E:\Sophomore semester1\NMDAPS2\PE20\PE20\obj\Debug\PE20.csproj.CoreCompileInputs.cache
+E:\Sophomore semester1\NMDAPS2\PE20\PE20\obj\Debug\PE20.exe
+E:\Sophomore semester1\NMDAPS2\PE20\PE20\obj\Debug\PE20.pdb
